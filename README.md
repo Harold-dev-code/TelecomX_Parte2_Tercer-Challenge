@@ -11,6 +11,21 @@
 ## 📝 Descripción del Proyecto
 Tras la fase exploratoria, me integro al equipo de **Machine Learning** de Telecom X. El objetivo es construir un pipeline robusto de clasificación para predecir qué clientes tienen mayor probabilidad de cancelar sus servicios (Churn), permitiendo a la empresa actuar de forma preventiva.
 
+##⚙️ Instalación y Uso
+
+Para replicar este análisis y probar los modelos predictivos, sigue estos pasos:
+
+1. **Clonar el repositorio:**
+    ```bash
+    git clone https://github.com/Harold-dev-code/TelecomX_Parte2_Tercer-Challenge.git
+    ```
+2. Carga de Datos:
+   - El proyecto utiliza el archivo datos_telecomX_procesados.csv incluido en este repositorio, el cual ya cuenta con la limpieza inicial de la Fase 1.
+3. Abrir el Notebook:
+   - Sube el archivo challenge_telecom_x_parte_dos.ipynb a Google Colab o ábrelo en tu entorno local de Jupyter Notebook.
+4. Ejecutar las celdas:
+   - Ejecuta todas las celdas en orden para replicar el proceso
+
 ## 🛠️ Pipeline de Trabajo
 
 ### 1. Preprocesamiento y Feature Engineering
