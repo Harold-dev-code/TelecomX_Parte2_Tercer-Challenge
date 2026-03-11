@@ -1,18 +1,21 @@
 # 🤖 challenge_Telecom-X (Parte 2: Machine Learning)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Banner del Proyecto](https://img.shields.io/badge/Data_Science-Python-blue?style=for-the-badge&logo=python)
 ![Alura Latam](https://img.shields.io/badge/Alura%20Latam-00447B?style=for-the-badge&logo=target&logoColor=white)
 ![Oracle ONE](https://img.shields.io/badge/Oracle%20ONE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 > **Nota:** Este proyecto es la continuación directa del análisis exploratorio. 
 > Puedes ver la **Fase 1 (EDA,Limpieza y transformación de datos)** aquí: [Repositorio Parte 1](https://github.com/Harold-dev-code/challenge_Telecom-X_parte_uno)
+---
 
 ## 📝 Descripción del Proyecto
+
 Tras la fase exploratoria, me integro al equipo de **Machine Learning** de Telecom X. El objetivo es construir un pipeline robusto de clasificación para predecir qué clientes tienen mayor probabilidad de cancelar sus servicios (Churn), permitiendo a la empresa actuar de forma preventiva.
 
-##⚙️ Instalación y Uso
+---
 
+## ⚙️ Instalación y Uso
 Para replicar este análisis y probar los modelos predictivos, sigue estos pasos:
 
 1. **Clonar el repositorio:**
